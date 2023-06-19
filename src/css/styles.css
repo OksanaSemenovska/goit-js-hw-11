@@ -49,6 +49,7 @@ img {
     height: 55px;
 
     background-color: #628A7A;
+    justify-content: center;
 }
 
 
@@ -59,7 +60,6 @@ input {
     font-size: 14px;
     line-height: calc(30 / 14);
     letter-spacing: 0.06em;
-    margin-left: 750px;
     padding-left: 10px;
     width: 250px;
     height: 35px;
